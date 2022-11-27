@@ -1,12 +1,11 @@
 import React from 'react'
 
-function index() {
+function ProductFeed() {
     return (
         <div>
-            {/* */}
+            <p>hello</p>
         </div>
     )
 }
 
-export default index
-
+export default ProductFeed
